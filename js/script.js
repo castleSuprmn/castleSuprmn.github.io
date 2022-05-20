@@ -134,7 +134,7 @@ function pregunta3() {
         }, 1000)
     })
     Swal.fire({
-        title: '¿Con qué frecuencia evita consumir alimetos que contienen lácteos?',
+        title: '¿Con qué frecuencia evita consumir alimentos que contienen lácteos?',
         input: 'radio',
         allowOutsideClick: false,
         heightAuto: false,
